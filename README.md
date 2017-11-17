@@ -3,7 +3,7 @@ A starter repo that every TTS internal buy can clone to get started.
 
 ## Instructions
 
-For a project titled `Project X`, run the following to start a fresh repo:
+For a project titled `Project X` and with the repository `tts-buy-project-x` already started, run the following to start a fresh repo:
 
 ```
 git clone https://github.com/18F/tts-internal-buy-starter-repo.git
